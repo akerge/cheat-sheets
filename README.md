@@ -4,7 +4,7 @@ Tend to forget simple commands that I don't use so much and for improved product
 
 ## Resolving Conflict
 
-First of all, have different branches on different computers -- makes resolving easier.
+To make life easier for oneself, have different branches on different computers -- makes resolving easier, maybe.
 
 ### Merge Conflict
 
