@@ -13,3 +13,9 @@ Basic syntax:
 `find [from] -name "folder-name"`
 
 `find [from] -type d "folder-name"`
+
+## links
+
+Symbolic link
+
+`ln -s /where/to /link/location`
