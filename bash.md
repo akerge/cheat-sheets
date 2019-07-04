@@ -19,3 +19,9 @@ Basic syntax:
 Symbolic link
 
 `ln -s /where/to /link/location`
+
+## list
+
+List as a column:
+
+`ls -1`
