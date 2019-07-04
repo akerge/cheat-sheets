@@ -10,3 +10,7 @@ Tend to forget simple commands that I don't use so much and for improved product
 
 [Bash cheat sheet can be found here.](bash.md)
 
+## vim
+
+[Vim cheat sheet can be found here.](vim.md)
+
