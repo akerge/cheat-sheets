@@ -18,6 +18,16 @@ Symbolic links in currend directory:
 
 `find [from] -type d "folder-name"`
 
+## diff & patch
+
+`-u` stands for unified context (easier to read)
+
+`diff -u original_file file_to_compare > output.patch`
+
+`-b` backs up the file to be patched
+
+`patch -b file_to_be_patched patch.file`
+
 ## links
 
 Symbolic link
