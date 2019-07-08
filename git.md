@@ -22,6 +22,10 @@ More visual one-liner:
 
 `git log --graph --decorate --oneline $(git rev-list -g --all)`
 
+#### To Revert
+
+`git revert SHA` from `git log --graph --decorate --oneline`
+
 #### To Reset
 
 ##### Soft
@@ -47,3 +51,7 @@ Hard reset will discard the reference logs.
 0. Set new URL using git
 
 `git remote set-url origin git@github.com:akerge/cheat-sheets.git`
+
+#### Choose Your Own Adventure
+
+To have an adventure, follow [this](http://sethrobertson.github.io/GitFixUm/fixup.html)
