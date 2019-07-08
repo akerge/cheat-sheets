@@ -8,6 +8,10 @@ Basic syntax:
 
 `find [from] [what]`
 
+Symbolic links in currend directory:
+
+`find . -maxdepth 1 -type l -ls`
+
 ### Folders
 
 `find [from] -name "folder-name"`
