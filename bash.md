@@ -39,3 +39,7 @@ Symbolic link
 List as a column:
 
 `ls -1`
+
+## get public keys
+
+`wget https://github.com/akerge.keys`
