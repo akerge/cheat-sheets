@@ -2,6 +2,20 @@
 
 Tend to forget simple commands that I don't use so much and for improved productivity decided to write them down.
 
+## Delete (a) word(s)
+
+`dw` deletes word starting from cursor
+
+`daw` deletes a whole word
+
+`df ` deletes from cursor until next space _or_ any other char instead of space, e.g.
+
+`df.` deletes whole sentence, until the dot.
+
+### Change a word
+
+`caw` changes a word (deletes and puts into insert mode)
+
 ## Delete every other line
 
 E.g. when copying from a table and editor parses second row onto a new line.
