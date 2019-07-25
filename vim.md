@@ -2,6 +2,21 @@
 
 Tend to forget simple commands that I don't use so much and for improved productivity decided to write them down.
 
+## Moving around
+
+`gg` beginning of file
+
+`GG` beginning of end of file
+
+`$` end of line
+
+`^` beginning of line
+
+`g_` last non-whitespace character
+
+`g$` end of screen 
+
+
 ## Delete (a) word(s)
 
 `dw` deletes word starting from cursor
