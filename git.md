@@ -55,3 +55,13 @@ Hard reset will discard the reference logs.
 #### Choose Your Own Adventure
 
 To have an adventure, follow [this](http://sethrobertson.github.io/GitFixUm/fixup.html)
+
+## Branching
+
+I see that you didn't bother to RTFM. Anyways,
+
+`git branch -a` lists `all`, `-r`emote and local branches
+
+`-d` deletes a branch
+
+`-b` creates a new branch and checks out, 2-in-1
