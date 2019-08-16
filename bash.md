@@ -43,3 +43,13 @@ List as a column:
 ## get public keys
 
 `wget https://github.com/akerge.keys`
+
+## change ip
+
+`ip addr #.#.#.#/# dev eth#`
+
+`ip link set eth# down/up`
+
+in Ubuntu it's `/etc/netplan.yaml`, fiddle with it and then `netplan apply`
+
+
