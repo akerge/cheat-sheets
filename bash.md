@@ -46,7 +46,7 @@ List as a column:
 
 ## change ip
 
-`ip addr #.#.#.#/# dev eth#`
+`ip addr add #.#.#.#/# dev eth#`
 
 `ip link set eth# down/up`
 
