@@ -23,7 +23,7 @@ Tend to forget simple commands that I don't use so much and for improved product
 
 `daw` deletes a whole word
 
-`df ` deletes from cursor until next space _or_ any other char instead of space, e.g.
+`df ` deletes from cursor until next space _or_ any other char instead of space, e.g.:
 
 `df.` deletes whole sentence, until the dot.
 
