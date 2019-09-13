@@ -52,4 +52,8 @@ List as a column:
 
 in Ubuntu it's `/etc/netplan.yaml`, fiddle with it and then `netplan apply`
 
+## mount
 
+To re-mount everything, say, after modifying fstab
+
+`mount -a`
