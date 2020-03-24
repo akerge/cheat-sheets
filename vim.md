@@ -45,6 +45,10 @@ To delete all odd lines [this guy](https://til.hashrocket.com/posts/c81edb64c0-d
 
 `:gg/^/+dd` (?) 
 
+[Delete line this many times](https://stackoverflow.com/questions/1946738/vim-how-to-delete-every-second-row)
+
+`gg` `qq` cursor down `q` `10@q`
+
 ## TODO:
 
 * Figure out how to delete all odd lines.
