@@ -16,6 +16,17 @@ Tend to forget simple commands that I don't use so much and for improved product
 
 `g$` end of screen 
 
+## Show hidden characters
+
+`:set list` shows
+
+`:set nolist` hides hidden characters
+
+## Show line numbers
+
+`set number`
+
+`set nonumber`
 
 ## Delete (a) word(s)
 
