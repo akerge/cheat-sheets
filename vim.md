@@ -42,6 +42,10 @@ Tend to forget simple commands that I don't use so much and for improved product
 
 `caw` changes a word (deletes and puts into insert mode)
 
+### Change in range
+
+`:5,12s/foo/bar/g` 	Change each 'foo' to 'bar' for all lines from line 5 to line 12 (inclusive).
+
 ## Delete every other line
 
 E.g. when copying from a table and editor parses second row onto a new line.
